@@ -37,9 +37,8 @@ Spoiler alert: it's down right constant up to 50k.
 
 https://docs.google.com/spreadsheets/d/1DEwVFGSeUYquM3rnzA9H-M8tH324zD_EmaSIqQf77dI/edit?usp=sharing
 
-# Phasmophobia Money Earned from Photos
+# Phasmophobia Cheat Sheet
 
-I wasn't sure how much money you made per photo. So I started putting the results to a spreadsheet.
-I still don't know. As of now atleast.
+Contains a table of info about each ghost, a table about the various methods of obtaining evidence, a table for organizing who brings what equipment, and most importantly, a little app to help you guess which ghost it is. You can check off whether you got an evidence or whether it can't be an evidence. And then it tells you which ghosts it can be and with what evidence you need to find.
 
-https://docs.google.com/spreadsheets/d/1kOW_O5oS6YYTi43aPUtRgIjO45ml6_0hfr6cml7f-gU/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1NCNAgalBxYTtQR0MgnKMAEbA7JoK-D1CM5nzz0-1nHc/edit?usp=sharing
